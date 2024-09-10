@@ -1,0 +1,38 @@
+1- Perfil Instructor
+Matías Grandi es Licenciado en economía con experiencia en administración financiera, explotación de datos y programación. Con formación primaria como economista, y especializado en el procesamiento de información, ha desarrollado actividades de consultoría tanto para el sector público como privado, desarrollando aplicaciones en Python explotando diversas bases de datos y para ser aplicadas en algoritmos de machine learning. 
+
+Por otro lado, se desempeñó en los cargos técnicos más altos de la administración pública vinculados a la administración financiera y el procesamiento y análisis de bases de datos. Ha ocupado el puesto de Director General de Administración en diversos organismos También se ha desempeñado como coordinador de proyectos financiados por BID y Banco Mundial vinculados al diseño, evaluación e implementación de políticas públicas.
+
+Por último, se desempeña como docente de grado en diferentes universidades (UNLP, UCASAL, UCALP) en materias vinculadas a la teoría económica. Es director del curso de “Ciencias de Datos para la Salud con Python” en iSalud y docente del curso “Métodos de Big Data para Ciencias Sociales y Políticas Públicas” en Flacso.
+
+Actualmente se desempeña como gerente de administración en una startup del sector fintech.
+
+2. Fundamentación:
+En la era actual, el manejo de grandes volúmenes de datos (Big Data) se ha convertido en una herramienta fundamental para el sector público. La capacidad de analizar y extraer información valiosa de estos conjuntos de datos permite a las entidades gubernamentales tomar decisiones más informadas, mejorar la eficiencia de sus operaciones y brindar mejores servicios a los ciudadanos.
+El presupuesto es una de las principales herramientas de gestión, reflejando políticas, y cuantificando en términos monetarios el plan de gobierno. El procesamiento e interpretación de la información que contiene es vital para poder lograr los objetivos de política y para un mejor monitoreo de la gestión.
+Dada la envergadura de las bases del presupuesto público, se necesitan herramientas especialmente diseñada para poder llevar adelante detallados análisis con gran cantidad de datos, pero de una forma sencilla.
+Python es un potente lenguaje de programación, utilizado para un sinfín de tareas en la industria. Pero en los últimos años, el desarrollo de módulos para el procesamiento de información lo ha situado como la herramienta por defecto para procesar el pago grandes volúmenes de datos.
+Python es software libre, lo que permite usarlo sin el pago de licencias. Además, tiene una gran comunidad de desarrolladores que mejoran día a día cada una de sus principales características.
+Su relativa facilidad de uso ha hecho posible que usuarios ajenos al ambiente IT lo utilicen y participen de su actividad.
+
+
+3. Contribución Esperada:
+
+Al finalizar este curso, los participantes podrán:
+
+    Comprender los fundamentos del Big Data y su relevancia para el sector público.
+    Instalar y configurar herramientas de desarrollo Python para Big Data.
+    Manipular y analizar conjuntos de datos utilizando bibliotecas Python como Pandas y NumPy.
+    Visualizar datos de manera efectiva utilizando bibliotecas como Matplotlib y Seaborn.
+
+
+4. Perfil del participante:
+
+Este curso está dirigido a funcionarios que deseen adquirir las habilidades necesarias para trabajar con Big Data utilizando Python. No se requieren conocimientos previos de programación, aunque se recomienda tener familiaridad con conceptos básicos de informática.
+
+5. Objetivos:
+
+El curso se propone contribuir a la gestión cotidiana para aquellas personas interesadas en la big data del sector público en general, y el presupuesto en particular. El funcionario obtendrá las herramientas necesarias para:
+
+    Comprender los principios básicos de la programación y procesamiento de datos con python
+    Generar reportes análiticos y gráficos con cruces de información presupuestaria con módulos tales como Pandas y Matplolib.
